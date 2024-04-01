@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C88B72-395E-4E67-819D-AA1CE9736967}|MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.vcxproj|C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C88B72-395E-4E67-819D-AA1CE9736967}|MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.vcxproj|solutionrelative:MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C88B72-395E-4E67-819D-AA1CE9736967}|MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.vcxproj|C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C88B72-395E-4E67-819D-AA1CE9736967}|MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.vcxproj|solutionrelative:MiniMaxAlgorithm_TicTacToe\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C88B72-395E-4E67-819D-AA1CE9736967}|MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.vcxproj|C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C88B72-395E-4E67-819D-AA1CE9736967}|MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.vcxproj|solutionrelative:MiniMaxAlgorithm_TicTacToe\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\Board.cpp",
+              "RelativeDocumentMoniker": "MiniMaxAlgorithm_TicTacToe\\Board.cpp",
+              "ToolTip": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\Board.cpp",
+              "RelativeToolTip": "MiniMaxAlgorithm_TicTacToe\\Board.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwFAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T15:29:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\Board.h",
+              "RelativeDocumentMoniker": "MiniMaxAlgorithm_TicTacToe\\Board.h",
+              "ToolTip": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\Board.h",
+              "RelativeToolTip": "MiniMaxAlgorithm_TicTacToe\\Board.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-01T15:28:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniMaxAlgorithm_TicTacToe.cpp",
+              "DocumentMoniker": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.cpp",
+              "RelativeDocumentMoniker": "MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.cpp",
+              "ToolTip": "C:\\ClassWork\\CIS167\\GitHub\\CIS167_FinalProject\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.cpp",
+              "RelativeToolTip": "MiniMaxAlgorithm_TicTacToe\\MiniMaxAlgorithm_TicTacToe.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T15:09:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
