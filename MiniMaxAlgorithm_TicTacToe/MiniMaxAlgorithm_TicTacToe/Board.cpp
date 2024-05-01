@@ -12,6 +12,7 @@ Board::Board(bool t)
     playerStart = t;
 }
 
+//Prints the board in its current state
 void Board::printBoard()
 {
     cout << "    A   B   C" << endl << endl;
@@ -118,7 +119,7 @@ void Board::setPosition(int row, int col, char x)
 }
 
 /// <summary>
-/// 
+/// Forces a move on a position, even if that spot is taken
 /// </summary>
 /// <param name="row"></param>
 /// <param name="col"></param>
@@ -128,6 +129,12 @@ void Board::setPosition(int row, int col)
     xTurn = !xTurn;
 }
 
+/// <summary>
+/// Makes a move on a spot, returning true if successful and false if not.
+/// </summary>
+/// <param name="row"></param>
+/// <param name="col"></param>
+/// <returns></returns>
 bool Board::makeMove(int row, int col)
 {
     if (board[row][col] == ' ')
