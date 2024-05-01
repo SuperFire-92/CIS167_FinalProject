@@ -1,3 +1,0 @@
-﻿  MiniMaxAlgorithm_TicTacToe.cpp
-C:\Users\Nick\Documents\College\GitHub\CIS167\CIS167_FinalProject\MiniMaxAlgorithm_TicTacToe\MiniMaxAlgorithm_TicTacToe\MiniMaxAlgorithm_TicTacToe.cpp(51,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  MiniMaxAlgorithm_TicTacToe.vcxproj -> C:\Users\Nick\Documents\College\GitHub\CIS167\CIS167_FinalProject\MiniMaxAlgorithm_TicTacToe\x64\Debug\MiniMaxAlgorithm_TicTacToe.exe
